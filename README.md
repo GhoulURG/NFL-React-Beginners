@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # NFL Learning Hub
 
@@ -66,3 +67,6 @@ the topic cards dynamically.
 Run `npm run build` to compile the project. Run `npm run preview`
 to test the built website locally.
 
+=======
+# NFL-React-Beginners
+>>>>>>> 7d9f2b00b43f34d0ab5850d27cecf8cc50e81219
